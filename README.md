@@ -4,7 +4,7 @@
 
 Works for one-player, bar some kinks. Possible new features: multi-player mode, tutoring algorithms. 
 
-First foray at any JS. Criticism welcome. 
+First foray into any JS. Criticism welcome. 
 
 
 Data from:
