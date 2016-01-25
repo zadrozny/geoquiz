@@ -9,6 +9,6 @@ First foray into any JS. Criticism welcome.
 
 Data from:
 
-* http://geography.about.com/od/countryinformation/a/capitals.htm
+* [About.com] (http://geography.about.com/od/countryinformation/a/capitals.htm)
 
-* http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_and_their_capitals_in_native_languages
+* [Wikipedia] (http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_and_their_capitals_in_native_languages)
