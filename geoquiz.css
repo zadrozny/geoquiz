@@ -1,0 +1,25 @@
+body {
+  /*font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  /*-webkit-text-size-adjust: 100%;*/
+  background: #2f2b3f;
+  color: #e3e3e3; 
+}
+
+#used
+{
+position:fixed;
+top:30px;
+right:300px;
+font-size: 20px;
+}
+
+#instructions
+{
+font-size: 30px;
+}
+
+#status
+{
+	font-size: 30px;
+}
+
